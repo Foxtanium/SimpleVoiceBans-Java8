@@ -1,11 +1,11 @@
 main: com.github.koxsosen.bukkit.BukkitPluginLoader
-name: SimpleVoiceBans
+name: SimpleVoiceBans-Java8
 api-version: 1.13
-version: 1.0-SNAPSHOT
+version: 1.0-1.3-SNAPSHOT
 softdepend:
   - LibertyBans
 depend: [ voicechat ]
-author: KoxSosen
+author: KoxSosen, Fox Ritch(Foxtanium)
 permissions:
   simplevoicebans.actionbar:
     description: Sends an action bar if the player has the permission.
