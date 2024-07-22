@@ -1,7 +1,7 @@
 package com.github.koxsosen.bukkit;
 
-import com.github.benmanes.caffeine.cache.Cache:2.9.3;
-import com.github.benmanes.caffeine.cache.Caffeine:2.9.3;
+import com.github.benmanes.caffeine.cache.Cache;
+import com.github.benmanes.caffeine.cache.Caffeine;
 import com.github.koxsosen.common.PunishmentPlayerType;
 import de.maxhenkel.voicechat.api.VoicechatPlugin;
 import de.maxhenkel.voicechat.api.events.EventRegistration;

@@ -12,6 +12,7 @@ subprojects {
     dependencies {
         compileOnly 'de.maxhenkel.voicechat:voicechat-api:2.5.0'
         compileOnly 'space.arim.libertybans:bans-api:1.1.0-SNAPSHOT'
+        implementation("com.github.ben-manes.caffeine:caffeine:2.9.3")
     }
 
     repositories {
