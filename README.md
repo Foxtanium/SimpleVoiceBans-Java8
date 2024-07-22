@@ -1,6 +1,6 @@
 # SimpleVoiceBans-Java8
 
-This plugin provides a [SimpleVoiceChat](https://github.com/henkelmax/simple-voice-chat) integration for [LibertyBans](https://github.com/A248/LibertyBans/). It mutes muted players on the voice chat too.
+This plugin is a fork of [SimpleVoiceBans(https://github.com/KoxSosen/SimpleVoiceBans) wich itself provides a [SimpleVoiceChat](https://github.com/henkelmax/simple-voice-chat) integration for [LibertyBans](https://github.com/A248/LibertyBans/), but unlike the original this fork provides support for Java 8.
 
 You can use this resource in two ways:
 
