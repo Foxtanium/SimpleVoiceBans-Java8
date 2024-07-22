@@ -1,5 +1,4 @@
 rootProject.name = 'SimpleVoiceBans-Java8'
 include 'bukkit'
-include 'bungeecord'
 include 'common'
 
