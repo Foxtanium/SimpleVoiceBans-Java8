@@ -20,9 +20,12 @@ public class MessageReceiver implements Listener {
             return;
         }
 
-        if (!(event.getReceiver() instanceof ProxiedPlayer player)) {
+java
+        if (!(event.getReceiver() instanceof ProxiedPlayer)) {
             return;
         }
+        
+        ProxiedPlayer player = (ProxiedPlayer) event.getReceiver(); 
 
         PunishmentPlayerType punishmentPlayerType;
 
