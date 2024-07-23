@@ -47,7 +47,7 @@ subprojects {
 
     shadowJar {
         archiveClassifier = 'uber'
-        archiveBaseName = 'SimpleVoiceBans'
+        archiveBaseName = 'SimpleVoiceBans-Java8'
         archiveAppendix = project.name
 
         relocate 'com.github.benmanes.caffeine.cache', 'com.github.simplevbans.benmanes.caffeine.cache'
