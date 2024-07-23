@@ -15,7 +15,7 @@ import space.arim.omnibus.OmnibusProvider;
 
 import java.util.NoSuchElementException;
 
-@Plugin(id = "simplevoicebans", name = "SimpleVoiceBans", version = "1.4-SNAPSHOT", authors = {"KoxSosen"})
+@Plugin(id = "simplevoicebans", name = "SimpleVoiceBans", version = "1.3", authors = {"KoxSosen, Fox Ritch(Foxtanium)"})
 
 public class VelocityPluginLoader {
 
