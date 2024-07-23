@@ -87,7 +87,7 @@ public class BukkitPluginLoader extends JavaPlugin {
     }
 
     public boolean checkIfBungee() {
-        return getServer().spigot().getConfig().getConfigurationSection("settings").getBoolean("bungeecord");
+        return true;
     }
 
     public static BukkitPluginLoader getInstance() {
